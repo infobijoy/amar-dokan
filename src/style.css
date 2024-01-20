@@ -1,3 +1,7 @@
 .navconn-text {
   font-size: 13px;
 }
+.nav-position {
+  height: 52px;
+  width: 100%;
+}
